@@ -18,5 +18,3 @@ Gerencie tarefas simples do dia a dia.
 - [Auth]
 - [Logout]
 - [Me]
-
-...
