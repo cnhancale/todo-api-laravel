@@ -2,6 +2,8 @@
 
 Gerencie tarefas simples do dia a dia.
 
+[Acessar Documentação](https://documenter.getpostman.com/view/6814881/2s8ZDU4PNs).
+
 --------------------------------------
 
 - [Create Task]
@@ -17,6 +19,4 @@ Gerencie tarefas simples do dia a dia.
 - [Logout]
 - [Me]
 
---------------------------------------
-
-[Documentação](https://documenter.getpostman.com/view/6814881/2s8ZDU4PNs).
+...
